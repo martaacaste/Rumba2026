@@ -17,4 +17,4 @@ Instrucciones para generar PDF:
 1. Instala pandoc (https://pandoc.org) o abre el archivo en un editor y imprime a PDF.
 2. Ejecuta: `pandoc README.md -o ProyectoLimpieza.pdf`
 
-Licencia: contenido propio.IYGYTFTYFFRTUDR
+Licencia: contenido propio.
