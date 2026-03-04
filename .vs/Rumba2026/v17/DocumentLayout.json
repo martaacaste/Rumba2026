@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\WinFormsVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WinFormsVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ProyectoLimpieza\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProyectoLimpieza\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ParallelForEachVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ParallelForEachVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ManualThreadsVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ManualThreadsVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\TPLDataflowVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPLDataflowVersion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\WinFormsVersion\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsVersion\\Program.cs",
+              "ToolTip": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\WinFormsVersion\\Program.cs",
+              "RelativeToolTip": "WinFormsVersion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:54:12.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ProyectoLimpieza\\README.md",
+              "RelativeDocumentMoniker": "ProyectoLimpieza\\README.md",
+              "ToolTip": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ProyectoLimpieza\\README.md",
+              "RelativeToolTip": "ProyectoLimpieza\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-04T14:54:10.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\TPLDataflowVersion\\Program.cs",
+              "RelativeDocumentMoniker": "TPLDataflowVersion\\Program.cs",
+              "ToolTip": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\TPLDataflowVersion\\Program.cs",
+              "RelativeToolTip": "TPLDataflowVersion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:54:06.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ManualThreadsVersion\\Program.cs",
+              "RelativeDocumentMoniker": "ManualThreadsVersion\\Program.cs",
+              "ToolTip": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ManualThreadsVersion\\Program.cs",
+              "RelativeToolTip": "ManualThreadsVersion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:54:04.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ParallelForEachVersion\\Program.cs",
+              "RelativeDocumentMoniker": "ParallelForEachVersion\\Program.cs",
+              "ToolTip": "C:\\Users\\marta.gonzalezcastej\\source\\repos\\Rumba2026\\ParallelForEachVersion\\Program.cs",
+              "RelativeToolTip": "ParallelForEachVersion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T14:53:58.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
