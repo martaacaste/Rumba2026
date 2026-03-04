@@ -1,20 +1,20 @@
-# Proyecto: C·lculo de ·reas y estimaciÛn de limpieza
+# Proyecto: C√°lculo de √°reas y estimaci√≥n de limpieza
 
-Este proyecto muestra varias implementaciones para calcular ·reas de zonas en paralelo y estimar el tiempo de limpieza.
+Este proyecto muestra varias implementaciones para calcular √°reas de zonas en paralelo y estimar el tiempo de limpieza.
 
 Contenido:
-- CÛdigo base (Task.Run)
-- VersiÛn con Parallel.ForEach
-- VersiÛn con Threads manuales
-- VersiÛn con TPL Dataflow
-- VersiÛn GUI (WinForms)
+- C√≥digo base (Task.Run)
+- Versi√≥n con Parallel.ForEach
+- Versi√≥n con Threads manuales
+- Versi√≥n con TPL Dataflow
+- Versi√≥n GUI (WinForms)
 
-FÛrmula usada:
-- ¡rea = largo * ancho
-- Tiempo (s) = Superficie total (cm≤) / Tasa de limpieza (cm≤/s)
+F√≥rmula usada:
+- √Årea = largo * ancho
+- Tiempo (s) = Superficie total (cm¬≤) / Tasa de limpieza (cm¬≤/s)
 
 Instrucciones para generar PDF:
 1. Instala pandoc (https://pandoc.org) o abre el archivo en un editor y imprime a PDF.
 2. Ejecuta: `pandoc README.md -o ProyectoLimpieza.pdf`
 
-Licencia: contenido propio.
+Licencia: contenido propio.IYGYTFTYFFRTUDR
