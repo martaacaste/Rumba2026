@@ -9,6 +9,7 @@ Contenido:
 - Versión con TPL Dataflow
 - Versión GUI (WinForms)
 - Versión WPF (con CQRS, async/await, TPL, reactiva, JSON export)
+- Versión Avalonia (cross-platform con Avalonia UI, CQRS, async/await, TPL, reactiva, JSON export)
 
 Fórmula usada:
 - Área = largo * ancho
