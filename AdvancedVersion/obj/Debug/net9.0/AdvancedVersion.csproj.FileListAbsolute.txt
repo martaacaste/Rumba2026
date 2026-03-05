@@ -1,0 +1,8 @@
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/AdvancedVersion.csproj.AssemblyReference.cache
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/Avalonia/resources
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/AdvancedVersion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/AdvancedVersion.AssemblyInfoInputs.cache
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/AdvancedVersion.AssemblyInfo.cs
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/AdvancedVersion.csproj.CoreCompileInputs.cache
+/workspaces/Rumba2026/AdvancedVersion/obj/Debug/net9.0/AdvancedVersion.sourcelink.json
