@@ -1,0 +1,8 @@
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/PacManVersion.csproj.AssemblyReference.cache
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/Avalonia/resources
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/PacManVersion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/PacManVersion.AssemblyInfoInputs.cache
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/PacManVersion.AssemblyInfo.cs
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/PacManVersion.csproj.CoreCompileInputs.cache
+/workspaces/Rumba2026/PacManVersion/obj/Debug/net9.0/PacManVersion.sourcelink.json

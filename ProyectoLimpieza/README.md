@@ -10,6 +10,7 @@ Contenido:
 - Versión GUI (WinForms)
 - Versión WPF (con CQRS, async/await, TPL, reactiva, JSON export)
 - Versión Avalonia (cross-platform con Avalonia UI, CQRS, async/await, TPL, reactiva, JSON export)
+- Versión Pac-Man (arquitectura moderna con API Gateway, CQRS, Pub/Sub, Saga, Sidecar)
 
 Fórmula usada:
 - Área = largo * ancho

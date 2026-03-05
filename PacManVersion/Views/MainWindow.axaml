@@ -1,0 +1,47 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:PacManVersion.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="600"
+        x:Class="PacManVersion.Views.MainWindow"
+        x:DataType="vm:MainViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="Pac-Man Game">
+
+    <Design.DataContext>
+        <vm:MainViewModel/>
+    </Design.DataContext>
+
+    <Grid>
+        <Canvas Background="Black" Width="400" Height="400">
+            <ItemsControl ItemsSource="{Binding Entities}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Ellipse Width="20" Height="20" Fill="{Binding Color, FallbackValue=Yellow}" />
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <Canvas />
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemContainerStyle>
+                    <Style>
+                        <Setter Property="Canvas.Left" Value="{Binding X, Converter={StaticResource MultiplyConverter}, ConverterParameter=20}" />
+                        <Setter Property="Canvas.Top" Value="{Binding Y, Converter={StaticResource MultiplyConverter}, ConverterParameter=20}" />
+                    </Style>
+                </ItemsControl.ItemContainerStyle>
+            </ItemsControl>
+        </Canvas>
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Up" Command="{Binding MoveUpCommand}" />
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Left" Command="{Binding MoveLeftCommand}" />
+                <Button Content="Right" Command="{Binding MoveRightCommand}" />
+            </StackPanel>
+            <Button Content="Down" Command="{Binding MoveDownCommand}" />
+        </StackPanel>
+    </Grid>
+</Window>
