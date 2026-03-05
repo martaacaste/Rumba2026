@@ -8,6 +8,7 @@ Contenido:
 - Versión con Threads manuales
 - Versión con TPL Dataflow
 - Versión GUI (WinForms)
+- Versión WPF (con CQRS, async/await, TPL, reactiva, JSON export)
 
 Fórmula usada:
 - Área = largo * ancho

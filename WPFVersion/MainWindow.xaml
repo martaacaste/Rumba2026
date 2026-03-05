@@ -1,0 +1,39 @@
+<Window x:Class="WPFVersion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFVersion"
+        mc:Ignorable="d"
+        Title="Robot Aspirador Simulación" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Text="Simulación de Robot Aspirador" FontSize="20" HorizontalAlignment="Center" Margin="10"/>
+        
+        <DataGrid Grid.Row="1" ItemsSource="{Binding Zonas}" AutoGenerateColumns="False" Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Zona" Binding="{Binding Nombre}" />
+                <DataGridTextColumn Header="Largo (cm)" Binding="{Binding Largo}" />
+                <DataGridTextColumn Header="Ancho (cm)" Binding="{Binding Ancho}" />
+                <DataGridTextColumn Header="Área (cm²)" Binding="{Binding Area}" />
+                <DataGridTextColumn Header="Estado" Binding="{Binding Estado}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <TextBlock Text="Superficie Total: " VerticalAlignment="Center"/>
+            <TextBlock Text="{Binding SuperficieTotal}" VerticalAlignment="Center" Margin="5,0"/>
+            <TextBlock Text="cm²" VerticalAlignment="Center"/>
+            <TextBlock Text=" | Tiempo Estimado: " VerticalAlignment="Center" Margin="20,0,5,0"/>
+            <TextBlock Text="{Binding TiempoEstimado}" VerticalAlignment="Center"/>
+            <TextBlock Text="s" VerticalAlignment="Center"/>
+            <Button Content="Calcular" Command="{Binding CalcularCommand}" Margin="20,0,0,0"/>
+            <Button Content="Exportar JSON" Command="{Binding ExportarCommand}" Margin="10,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
