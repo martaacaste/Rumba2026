@@ -24,5 +24,5 @@ build_property.EnableCodeStyleSeverity =
 [/workspaces/Rumba2026/AdvancedVersion/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/workspaces/Rumba2026/AdvancedVersion/Views/MainWindow.axaml]
+[/workspaces/Rumba2026/AdvancedVersion/AppXaml.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
